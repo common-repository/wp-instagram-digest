@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Instagram Digest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-27 23:24+0300\n"
+"PO-Revision-Date: 2012-07-27 23:24+0300\n"
+"Last-Translator: Andrey Ovcharov <andrew.ovcharov@gmail.com>\n"
+"Language-Team: Spectraweb s.r.o. <info@spectraweb.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-instagram-digest.php:62
+msgid "Instagram Digest"
+msgstr ""
+
+#: ../wp-instagram-digest.php:367
+msgid "Instagram Daily Digest"
+msgstr ""
+
+#: ../wp-instagram-digest.php:393
+msgid "Instagram Digest Settings"
+msgstr ""
+
+#: ../wp-instagram-digest.php:414
+#: ../wp-instagram-digest.php:459
+msgid "Please complete Instagram authentication before using this plugin"
+msgstr ""
+
+#: ../wp-instagram-digest.php:417
+msgid "1. Register your application on Instagram"
+msgstr ""
+
+#: ../wp-instagram-digest.php:420
+#, php-format
+msgid "Visit %s and register new application for your blog."
+msgstr ""
+
+#: ../wp-instagram-digest.php:424
+#, php-format
+msgid "Set <strong>Website URL</strong> and <strong>Redirect URL</strong> to your blog url: %s"
+msgstr ""
+
+#: ../wp-instagram-digest.php:427
+msgid "Example:"
+msgstr ""
+
+#: ../wp-instagram-digest.php:434
+msgid "Enter Client ID value to form below:"
+msgstr ""
+
+#: ../wp-instagram-digest.php:439
+msgid "Instagram <strong>Client ID</strong>"
+msgstr ""
+
+#: ../wp-instagram-digest.php:462
+msgid "2. Authenticate your application on Instagram"
+msgstr ""
+
+#: ../wp-instagram-digest.php:465
+#, php-format
+msgid "Open <a href=\"%s\" target=\"_blank\">this link</a>."
+msgstr ""
+
+#: ../wp-instagram-digest.php:469
+msgid "After the authentication process you will be redirected back to your blog with the access_token in the url fragment."
+msgstr ""
+
+#: ../wp-instagram-digest.php:473
+msgid "Simply grab the access_token off the URL fragment and paste it to form below:"
+msgstr ""
+
+#: ../wp-instagram-digest.php:478
+msgid "Instagram <strong>access_token</strong>"
+msgstr ""
+
+#: ../wp-instagram-digest.php:491
+msgid "Cron settings"
+msgstr ""
+
+#: ../wp-instagram-digest.php:494
+msgid "Run check task every day at"
+msgstr ""
+
+#: ../wp-instagram-digest.php:500
+#, php-format
+msgid "Current server time is %s"
+msgstr ""
+
+#: ../wp-instagram-digest.php:506
+msgid "Post settings"
+msgstr ""
+
+#: ../wp-instagram-digest.php:509
+msgid "Minimal size of the gallery"
+msgstr ""
+
+#: ../wp-instagram-digest.php:515
+msgid "Minimal number of images to create gallery"
+msgstr ""
+
+#: ../wp-instagram-digest.php:520
+msgid "Post title"
+msgstr ""
+
+#: ../wp-instagram-digest.php:526
+msgid "Title for the post"
+msgstr ""
+
+#: ../wp-instagram-digest.php:531
+msgid "Post template"
+msgstr ""
+
+#: ../wp-instagram-digest.php:539
+msgid "Template for the post content. Please use [gallery] shortcode somewhere in the content."
+msgstr ""
+
+#: ../wp-instagram-digest.php:544
+msgid "Post category"
+msgstr ""
+
+#: ../wp-instagram-digest.php:556
+msgid "Category for the post"
+msgstr ""
+
+#: ../wp-instagram-digest.php:561
+msgid "Post tags"
+msgstr ""
+
+#: ../wp-instagram-digest.php:567
+msgid "Comma separated list of tags"
+msgstr ""
+
+#: ../wp-instagram-digest.php:577
+msgid "Save Changes"
+msgstr ""
+
